@@ -1,3 +1,3 @@
 # asthetic
 This is my first git project
-author - aagam shah...
+author - aagam shah..
